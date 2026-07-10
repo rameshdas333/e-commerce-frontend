@@ -52,6 +52,7 @@ const Navbar = () => {
      {menuItems}
     </ul>
   </div>
+ <input type="search" name="search"  className="bg-amber-800" id="" />
   <div className="navbar-end">
     <a className="btn">Button</a>
   </div>
