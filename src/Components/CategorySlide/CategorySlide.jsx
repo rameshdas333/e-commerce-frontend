@@ -376,7 +376,7 @@ import React from 'react'
 const CategorySlide = () => {
   return (
     <div>
-      <h1>Category Slide</h1>
+      <h1>Category Slide part</h1>
     </div>
   )
 }
