@@ -1,10 +1,10 @@
 import React from 'react';
-import SideImg from '../../assets/SideImage.png'
+// image hoba
 
 const AboutRightSide = () => {
     return (
         <div className=''>
-           <img className='w-[705px] h-[609px]' src={SideImg} alt="" />
+           <img className='w-[705px] h-[609px]'  alt="" />
         </div>
     );
 };
